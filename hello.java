@@ -4,7 +4,7 @@ public class hello{
 
 		for(int i=1;i<=15;i++){
 
-			System.out.println("Hello with mof4..."+i);
+			System.out.println("Hello with mo4..."+i);
 		}
 
 
